@@ -1,8 +1,8 @@
 {
-    "name": "vsc-alfred-workflow-nodejs",
-    "version": "0.0.1",
-    "main": "main.js",
-    "dependencies": {
-        "alfred-workflow-nodejs": "^1.1.0"
-    }
+  "name": "vsc-alfred-workflow-nodejs",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "alfy": "^0.9.1"
+  }
 }
